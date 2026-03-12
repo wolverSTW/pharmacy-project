@@ -1,0 +1,11 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "ts",
+    "typescript": "ts",
+    "typescriptreact": "tsx"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  }
+}
